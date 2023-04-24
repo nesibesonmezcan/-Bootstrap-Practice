@@ -1,0 +1,21 @@
+div.card-footer >div{
+     background-color: rgb(34, 97, 212);
+     width: 35px;
+     height: auto;
+     padding: 10px;
+     border-radius:50% ;
+     -webkit-border-radius:50% ;
+     -moz-border-radius:50% ;
+     -ms-border-radius:50% ;
+     -o-border-radius:50% ;
+     color: white;
+     
+}
+
+div.card-footer{
+     background: none;
+     border: none;
+}
+.container .card-footer div:nth-child(2){
+     background-color:rgb(113, 160, 248) ;
+}
